@@ -88,7 +88,6 @@ For our midterm we believed that the main inaccuracy in our results arose from t
 
 [Link to Gantt Chart](https://gtvault-my.sharepoint.com/:x:/g/personal/gramesh31_gatech_edu/EdeXTRvfNxpNrly5V-2R_T0B_FrxWppNGQxnsnZNPazKYQ?e=gY7nqz)
 <img src="https://drive.google.com/uc?export=view&id=1GnEGqZB6PyifsQE-EGvnW9jxMgNr_YB7" alt="chart 1" />
-![labels](https://hahuang8.github.io/Stock-Prediction-ML/chart1.png)
 <img src="https://drive.google.com/uc?export=view&id=1WCq2wu7V1CXR2NqsuHDAAYg37D_j_fkq" alt="chart 2" />
 
 # Contribution Table:
